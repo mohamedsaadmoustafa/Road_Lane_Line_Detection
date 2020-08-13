@@ -28,6 +28,9 @@
 
  
 ## Results:
+  ![1](/testCases/solidWhiteRight.jpg)
   ![1](/images/1.png)
+  ![2](/testCases/solidYellowleft.jpg)
   ![2](/images/2.png)
+  ![3](/testCases/solidWhiteCurve.jpg)
   ![3](/images/3.png)
